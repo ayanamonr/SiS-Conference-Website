@@ -33,6 +33,11 @@ i {
   text-align: left;
 }
 
+.brand-spacing{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 .spacing{
   padding: 50px;
 }
