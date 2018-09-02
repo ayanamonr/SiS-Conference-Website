@@ -1,0 +1,60 @@
+body{
+
+}
+
+
+h1 {
+  font-size: 7vw;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 4vw;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+p {
+  font-size: 2vw;
+}
+
+i {
+  font-size: 4em;
+  color: aliceblue;
+}
+
+.home-screen-text{
+  color: black;
+  position: 5%;
+  z-index: 2;
+  margin: 0 auto;
+  max-width: 1250px;
+  margin-top: 200px;
+  text-align: left;
+}
+
+.spacing{
+  padding: 50px;
+}
+
+
+.speaker-title{
+  width: 100%;
+  height: 300px; 
+  text-align: center;
+}
+
+.keynote-img{
+    margin-top: 75px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
