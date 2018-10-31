@@ -1,16 +1,28 @@
 
 h1 {
-  padding-top: 50px;
-  padding-bottom: 50px;
-  font-size: 25vw;
+  padding-top: 75px;
+  padding-bottom: 25px;
+  font-size: 30vw;
+  display: block;
   text-align: center;
 }
 
-
-h2{
-  display: flex;
-  justify-content: center;
+h2 {
+  padding-top: 25px;
+  padding-bottom: 50px;
+  font-size: 25vw;
+  display: block;
+  text-align: center;
 }
+
+h3{
+  padding-top: 25px;
+  padding-bottom: 50px;
+  font-size: 25vw;
+  display: block;
+  text-align: center;
+}
+
 
 /* quick reset and base styles */
 
@@ -82,15 +94,11 @@ a:link{
 
 .row-space{
   padding-bottom: 50px;
-
+  padding-left: 100px;
   
   
 }
 
-.speaker-box{
-  display: flex;
-  justify-content: center;
-}
 
 .picture-pad-l{
   padding-bottom: 25px;

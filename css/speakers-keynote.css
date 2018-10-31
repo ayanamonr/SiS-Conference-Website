@@ -1,22 +1,21 @@
 body{
-
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 
 h1 {
-  font-size: 7vw;
-  padding-bottom: 15px;
+  font-size: 50px;
   text-align: center;
 }
 
 h2 {
   font-size: 4vw;
   padding-bottom: 15px;
-  text-align: center;
 }
 
 p {
-  font-size: 2vw;
+  font-size: 18px;
 }
 
 i {
@@ -46,7 +45,7 @@ i {
 }
 
 .keynote-img{
-    margin-top: 75px;
+    margin-top: 100px;
     margin-bottom: 50px;
     border-radius: 50%;
 
@@ -62,4 +61,19 @@ i {
 .brand-spacing{
     margin-left: 5px;
     margin-right: 5px;
+  }
+
+.text-padding{
+  text-align: left;
+}
+
+.medium-gutters {
+  margin-right: -55px;
+  margin-left: -50px;
+  padding-right: 100px;
+  padding-left: 75px;
+  }
+
+  .text-div{
+    padding-top: 6.2rem;
   }
