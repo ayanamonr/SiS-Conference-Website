@@ -5,7 +5,9 @@
   border-radius: 0%;
 }
 
-
+center{
+  text-align: center;
+}
 
 
 h1 {
@@ -15,7 +17,6 @@ h1 {
 
 h2 {
   font-size: 4vw;
-  padding-bottom: 15px;
   text-align: center;
 }
 
@@ -57,19 +58,22 @@ i {
 h2{
   text-align: center;
   margin: 0;
-  padding: 10px;   
   font-size: 45px;
-  padding-bottom: 50px;
  
 }
 
 
 
 .center{
-  width: 400px;
+  padding-top: 25px;
+  width: 80%;
   margin: 0 auto;
-  padding-top: 250px;
-  padding-bottom: 250px;
+}
+
+ul{
+  padding-top: 25px;
+  width: 80%;
+  margin: 0 auto;
 }
 
 
@@ -197,7 +201,6 @@ a:link{
  }
 
 .row-space{
-  padding-bottom: 50px;
   padding-left: 100px;
   
   
@@ -230,10 +233,7 @@ a:link{
 }
 
 
-.accordian-spacing{
-  padding-top: 25px;
-  padding-bottom: 25px;
-}
+
 
 .links{
   font-size: 1vw;
