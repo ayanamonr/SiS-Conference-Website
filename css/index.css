@@ -6,9 +6,6 @@
 }
 
 
-body{
-
-}
 
 
 h1 {
@@ -87,8 +84,6 @@ h1{
 }
 
 .home-text-spacing{
-  margin-left: 100px;
-  margin-right: 100px;
   text-align: center;
   margin-top: 100px;
 }
