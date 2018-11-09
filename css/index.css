@@ -37,6 +37,8 @@ i {
 
 
 .list-item{
+  font-size: 20px;
+
     color: black;
   margin: 0 auto;
   text-align: left;
