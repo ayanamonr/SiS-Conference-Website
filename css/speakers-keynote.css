@@ -19,9 +19,9 @@ i {
   color: aliceblue;
 }
 
-.spacing{
+/* .spacing{
   padding: 50px;
-}
+} */
 
 
 .speaker-title{
@@ -44,8 +44,6 @@ i {
     margin-right: auto;
     
 }
-
-
 
 .text-padding{
   text-align: left;
