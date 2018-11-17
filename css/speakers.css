@@ -33,7 +33,7 @@ img{
   
 }
 
-.img__description_layer {
+#img__description_layer {
   position: absolute;
   top: 0;
   bottom: 0;
